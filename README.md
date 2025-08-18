@@ -106,5 +106,3 @@ The application is designed as a single, self-contained Python file for easy dep
 This software is provided as-is for controlling Harris LRC router systems. Please ensure compliance with your organization's network and equipment policies before deployment.
 
 ---
-
-**Note**: This application is designed specifically for Harris LRC router systems. Compatibility with other router types is not guaranteed.
